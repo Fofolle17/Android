@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Firebase Chat</string>
+    <string name="name_picker" translatable="false">Username</string>
+    <string name="btn_send" translatable="false">Send</string>
+    <string name="btn_continuer" translatable="false">Go</string>
+    <string name="btn_suprimer" translatable="false">Delete</string>
+    <string name="btn_modifier" translatable="false">Edit</string>
+</resources>

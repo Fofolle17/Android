@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">Firebase Chat</string>
+    <string name="name_picker" translatable="false">Choissisez votre nom</string>
+    <string name="btn_send" translatable="false">Envoyer</string>
+    <string name="btn_continuer" translatable="false">Continuer</string>
+    <string name="btn_suprimer" translatable="false">Supprimer</string>
+    <string name="btn_modifier" translatable="false">Modifier</string>
+</resources>
