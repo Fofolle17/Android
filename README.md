@@ -21,4 +21,22 @@ Liste des fonctionnalités:
  
         classpath 'com.android.tools.build:gradle:3.0.0'
         classpath 'com.google.gms:google-services:3.1.0'
+
+ Captures D'écrans :
  
+ Connexion 
+ 
+ <img src=" https://github.com/Fofolle17/Android/tree/master/images/log.png" data-canonical-src=" https://github.com/Fofolle17/Android/tree/master/images/log.png" width="400" height="600" />
+ 
+ Discussion
+ 
+  <img src=" https://github.com/Fofolle17/Android/tree/master/images/chat.png" data-canonical-src=" https://github.com/Fofolle17/Android/tree/master/images/chat.png" width="400" height="600" />
+
+ 
+ Option (rester appuyer sur le message)
+ 
+  <img src=" https://github.com/Fofolle17/Android/tree/master/images/menu.png" data-canonical-src=" https://github.com/Fofolle17/Android/tree/master/images/menu.png" width="400" height="600" />
+
+
+Licence:
+
