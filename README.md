@@ -5,6 +5,7 @@ Application android de chat avec firebase
 Application de tchat en ligne permettant à un groupe de personnes de communiquer entre elles.
 
 Liste des fonctionnalités:
+--------------------------
   - Envoier/recevoir des messages
   - Connexion via un avatar Gravatar et une Déconnexion
   - Suppression des messages ( sauf celui du proffesseur )
@@ -16,14 +17,14 @@ Liste des fonctionnalités:
   - Position de la liste mise à jour automatiquement 
  
  Instruction D'instalation:
- 
+ --------------------------
  Use Gradle:
  
         classpath 'com.android.tools.build:gradle:3.0.0'
         classpath 'com.google.gms:google-services:3.1.0'
 
  Captures D'écrans :
- 
+ -------------------
  Connexion 
  
  <img src="https://github.com/Fofolle17/Android/tree/master/images/log.png" width="400" height="600" />
